@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <build>
-  <finalName></finalName>
+  <finalName> docker-jenkins-integration-sample1> </finalName>
   </build>
 </project>
